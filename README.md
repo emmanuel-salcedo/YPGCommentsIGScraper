@@ -1,4 +1,5 @@
-# Instagram Comments Scraper and data process
+# Scrape Instagram Post for all the comments
+Going through the post to see if there is the key from the keys csv and count the total instances through all the comments.
 
 1. Create Virtual Environment (Recommended)<br/> 
     - `pip install virtualenv`
